@@ -2,6 +2,6 @@
 
 ##github的注册
 
-1、打开网页[example link]（https://github.com/），如图![alt text]
+1、打开网页https://github.com/，如图![alt text](/path/to/github for use/img.png "10")
 
 
