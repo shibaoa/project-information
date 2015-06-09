@@ -1,7 +1,0 @@
-#github使用说明
-
-##github的注册
-
-1、打开网页[example link]（https://github.com/），如图![alt text]
-
-
